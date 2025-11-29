@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BUMA\\JWTApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|d:\\buma\\jwtapi\\testproject\\testjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|d:\\buma\\jwtapi\\testproject\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|solutionrelative:testproject\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|d:\\buma\\jwtapi\\testproject\\refreshtoken_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|solutionrelative:testproject\\refreshtoken_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|d:\\buma\\jwtapi\\testproject\\registertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|solutionrelative:testproject\\registertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|d:\\buma\\jwtapi\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|d:\\buma\\jwtapi\\testproject\\testhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59134361-A677-4633-8D41-66B06AED6DA9}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\dtos\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\dtos\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|d:\\buma\\jwtapi\\jwtapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A121F0F-9F81-EBC0-FD72-8A15D6678D6A}|JWTApi\\JWTApi.csproj|solutionrelative:jwtapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\TestProject\\LoginTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\LoginTest.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\TestProject\\LoginTest.cs",
+              "RelativeToolTip": "TestProject\\LoginTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:59:18.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestJwt.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\TestProject\\TestJwt.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestJwt.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\TestProject\\TestJwt.cs",
+              "RelativeToolTip": "TestProject\\TestJwt.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:45:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "JWTApi\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "JWTApi\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:16:17.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "JWTApi\\Services\\TokenService.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\Services\\TokenService.cs",
+              "RelativeToolTip": "JWTApi\\Services\\TokenService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:28:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefreshToken_Test.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\TestProject\\RefreshToken_Test.cs",
+              "RelativeDocumentMoniker": "TestProject\\RefreshToken_Test.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\TestProject\\RefreshToken_Test.cs",
+              "RelativeToolTip": "TestProject\\RefreshToken_Test.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:16:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWTApi\\Models\\User.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\Models\\User.cs",
+              "RelativeToolTip": "JWTApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:14:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTApi\\appsettings.json",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\appsettings.json",
+              "RelativeToolTip": "JWTApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T06:13:07.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterTests.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\TestProject\\RegisterTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\RegisterTests.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\TestProject\\RegisterTests.cs",
+              "RelativeToolTip": "TestProject\\RegisterTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:41:57.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\Program.cs",
+              "RelativeDocumentMoniker": "JWTApi\\Program.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\Program.cs",
+              "RelativeToolTip": "JWTApi\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:29:45.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestProject",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
+              "ToolTip": "D:\\BUMA\\JWTApi\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "TestProject\\TestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T09:37:42.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestHelpers.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\TestProject\\TestHelpers.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestHelpers.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\TestProject\\TestHelpers.cs",
+              "RelativeToolTip": "TestProject\\TestHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:37:56.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JWTOptions.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\Models\\JWTOptions.cs",
+              "RelativeDocumentMoniker": "JWTApi\\Models\\JWTOptions.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\Models\\JWTOptions.cs",
+              "RelativeToolTip": "JWTApi\\Models\\JWTOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:17:18.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "JWTApi\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "JWTApi\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:22:10.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "JWTApi\\Services\\PasswordHasher.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "JWTApi\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:28:10.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RefreshRequest.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\DTOs\\RefreshRequest.cs",
+              "RelativeDocumentMoniker": "JWTApi\\DTOs\\RefreshRequest.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\DTOs\\RefreshRequest.cs",
+              "RelativeToolTip": "JWTApi\\DTOs\\RefreshRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:23:33.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "JWTApi\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "JWTApi\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:22:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "JWTApi\\DTOs\\AuthResponse.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "JWTApi\\DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:23:00.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JWTApi\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "JWTApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:27:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\BUMA\\JWTApi\\JWTApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\BUMA\\JWTApi\\JWTApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:24:50.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

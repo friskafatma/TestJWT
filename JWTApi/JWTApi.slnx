@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JWTApi/JWTApi.csproj" />
+  <Project Path="TestProject/TestProject.csproj" Id="59134361-a677-4633-8d41-66b06aed6da9" />
+</Solution>
